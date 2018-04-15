@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Railway_test2</string>
+    <string-array name="railwayList">
+        <item>G7553 温州南-杭州东</item>
+        <item>G7362 乐清-杭州东</item>
+        <item>G6670 雁荡山-杭州东</item>
+        <item>G9537 宁波东-杭州东</item>
+    </string-array>
 </resources>
